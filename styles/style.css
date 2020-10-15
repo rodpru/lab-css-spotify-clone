@@ -106,4 +106,23 @@ article p {
     font-size: 10px;
     font-weight: 300;
 }
+.white-logo {
+    height: 100px;
+    display: flex;
+    position: relative;
+    margin-top: 130px;
+}
+.spotify-kanye {
+    height: 460px;
+    display: flex;
 
+}
+.last-third {
+    background-color: #00B172;
+    display: flex;
+    justify-content: space-around;
+}
+.descriptiomn {
+    display: flex;
+    flex-direction: column;
+}
